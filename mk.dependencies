@@ -1,18 +1,16 @@
 [
     {
         "repository": "MoKee/android_kernel_samsung_espresso10",
-        "target_path": "kernel/samsung/espresso10",
-        "branch": "jb-mr1_mkt"
+        "target_path": "kernel/samsung/espresso10"
     },
     {
         "repository": "MoKee/android_vendor_samsung_p31xx",
-        "target_path": "vendor/samsung/p31xx",
-        "branch": "jb-mr1_mkt"
+        "target_path": "vendor/samsung/p31xx"
     },
     {
         "repository": "android_packages_apps_SamsungServiceMode",
         "target_path": "packages/apps/SamsungServiceMode",
-        "branch": "cm-10.1",
+        "branch": "cm-10.2",
         "remote": "cyanogen"
     }
 ]
