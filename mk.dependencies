@@ -1,10 +1,10 @@
 [
     {
-        "repository": "MoKee/android_kernel_samsung_espresso10",
+        "repository": "android_kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10"
     },
     {
-        "repository": "MoKee/android_vendor_samsung_p31xx",
+        "repository": "android_vendor_samsung_p31xx",
         "target_path": "vendor/samsung/p31xx"
     },
     {
